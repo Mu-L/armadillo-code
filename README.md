@@ -13,9 +13,6 @@
 * **Documentation & Examples:**  
 [**arma.sourceforge.net/docs.html**](https://arma.sourceforge.net/docs.html)
 
-* **Conversion Table Between Matlab and Armadillo Syntax:**  
-[**arma.sourceforge.net/docs.html#syntax**](https://arma.sourceforge.net/docs.html#syntax)
-
 * **Related Projects:**
   - [mlpack](https://mlpack.org) - extensive library of machine learning algorithms (C++ and bindings to Python)
   - [ensmallen](https://ensmallen.org) - C++ library for non-linear numerical optimisation (L-BFGS, SGD, CMA-ES, etc)
